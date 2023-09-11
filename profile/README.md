@@ -3,12 +3,12 @@
 ```php
 <?php
   if (1 == 1) {
-    $lazy = 'true';
+    $lazy = true;
   } else {
-  	$lazy = 'false';
+  	$lazy = false;
   }
 	
-  if ($lazy == 'true') {
+  if ($lazy == true) {
     echo 'Very well done README';
   }
 ?>
