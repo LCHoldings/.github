@@ -1,5 +1,6 @@
 ## README.php
 
+```php
 <?php
   if (1 == 1) {
     $lazy = 'true';
@@ -11,3 +12,4 @@
     echo 'Very well done README';
   }
 ?>
+```
