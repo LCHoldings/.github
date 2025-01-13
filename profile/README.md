@@ -13,7 +13,7 @@ export default function LCHoldingsReadme() {
     })
 
     if (isLazy) {
-        return <h1>Work in progress!!</div>
+        return <h1>Work in progress!!</h1>
     } else {
         return <></>
     }
